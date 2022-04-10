@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro O. Valdés</h1>
 <h3 align="center">A passionate Data scientist from Cuba living in Spain</h3>
 
-- 🔭 I’m currently working on **Quora Insincere Questions**
+- 🔭 I’m currently working on **NLP** project
 
 - 🌱 I’m currently learning **Deep Learning for Natural Language Processing**
 
