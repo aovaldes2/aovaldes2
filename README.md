@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aovaldes@gmail.com**
 
-- ⚡ Fun fact **I like sports especially football, baseball and basketball**
+- ⚡ Fun fact **love sports especially football, baseball and basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
