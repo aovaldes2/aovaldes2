@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **SQL, PYTHON and Java**
 
-- 📫 How to reach me **aovaldes@gmail.com**
+- 📫 How to reach me **aovaldes2@gmail.com**
 
 - ⚡ Fun fact **love sports especially football, baseball and basketball**
 
